@@ -1,4 +1,32 @@
+.main-box {
+    border-radius: 4px;
+    box-shadow: 0 5px 15px #ddd;
+    border: 1px solid #17a2b8;
+    background: #b3d7ff;
+}
+
+.title-text {
+    font-size: 200%;
+    background-color: #000000;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgb(255 255 255 / 40%) 0px 3px 3px;
+}
+
+
+
 img{
-    height:20px;
-    }
-    
+   
+  height: 55px;
+  transform: rotate(90deg);
+}
+
+.bg-dark{
+    background: #000 !important;
+}
+
+
+ 
+
